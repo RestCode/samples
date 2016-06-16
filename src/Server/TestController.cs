@@ -1,7 +1,7 @@
 ﻿using System.Web.Http;
 using System.Web.Http.Description;
 
-namespace Default
+namespace Server
 {
     [RoutePrefix("api/test")]
     public class TestController : ApiController
